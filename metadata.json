@@ -1,0 +1,6 @@
+{
+  "name": "ROTA SEGURA - Entregas Expressas",
+  "description": "Soluções logísticas expressas e contratos recorrentes para empresas, escritórios e pessoas na Grande São Paulo e interior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
